@@ -1,0 +1,8 @@
+{
+    "com.evothings.ble": {
+        "source": {
+            "type": "registry",
+            "id": "com.evothings.ble"
+        }
+    }
+}
